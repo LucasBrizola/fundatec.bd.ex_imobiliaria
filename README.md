@@ -1,4 +1,4 @@
-# fundatec.ex_consultoria
+# fundatec.ex_imobiliaria
 
 Trabalho 1 - Sistema Imobiliária
 Cenário: Sistema Imobiliária
